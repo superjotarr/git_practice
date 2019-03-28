@@ -1,0 +1,12 @@
+la comida sin comer de los animalitos:
+animales:
+Leon tacataca
+mona
+hipopotamo
+orangutan
+miñoca
+venado
+colebra tacataca
+sapo
+cacatua
+piraña
